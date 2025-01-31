@@ -1,0 +1,20 @@
+.weekTitle {
+    background: linear-gradient(135deg, rgb(239, 152, 152), rgb(250, 122, 96));
+    border-radius: 12px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    padding: 10px;
+
+}
+
+.weekTitle:hover {
+    transform: scale(1.05);
+    /* Card yukarı kalkar */
+    background: linear-gradient(135deg, rgb(135, 67, 33), rgb(150, 69, 28));
+    /* Hover ile renk değişimi */
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+}

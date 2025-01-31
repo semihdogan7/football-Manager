@@ -1,0 +1,119 @@
+.backOnePlayer {
+    /* background-image: url("/images/other/oneplayerback.jpg"); */
+    /* background-size: cover; */
+    background-color: rgb(26, 26, 27);
+}
+
+.pozcircle {
+    align-items: center;
+    position: absolute;
+
+    background-size: cover;
+}
+
+.bosmevki {
+    background-image: url("/images/other/bosmevki.png");
+    width: 30px;
+    height: 30px;
+}
+
+.yanmevki {
+    background-image: url("/images/other/yanmevki.png");
+    width: 30px;
+    height: 30px;
+}
+
+.anamevki {
+    background-image: url("/images/other/anamevki.png");
+    width: 30px;
+    height: 30px;
+}
+
+
+.gkmevki {
+    top: 290px;
+    left: 43px;
+}
+
+.dlmevki {
+    top: 230px;
+    left: 93px;
+}
+
+.dcmevki {
+    top: 290px;
+    left: 93px;
+}
+
+.drmevki {
+    top: 353px;
+    left: 93px;
+}
+
+.dmmevki {
+    top: 290px;
+    left: 143px;
+}
+
+.mlmevki {
+    top: 230px;
+    left: 183px;
+}
+
+.mcmevki {
+    top: 290px;
+    left: 183px;
+}
+
+.mrmevki {
+    top: 353px;
+    left: 183px;
+}
+
+.amcmevki {
+    top: 290px;
+    left: 243px;
+}
+
+.amlmevki {
+    top: 230px;
+    left: 243px;
+}
+
+.amrmevki {
+    top: 353px;
+    left: 243px;
+}
+
+.stmevki {
+    top: 290px;
+    left: 293px;
+}
+
+.pozisyon {
+    background-image: url("/images/other/pozisyon.png");
+    background-size: cover;
+    /* background-color: rgb(26, 26, 27); */
+}
+
+.textoneplayer {
+    color: rgba(240, 248, 255, 0.781);
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.kucuk5 {
+    color: rgb(128, 128, 128);
+}
+
+.kucuk10 {
+    color: rgb(217, 217, 217);
+}
+
+.kucuk15 {
+    color: rgb(155, 255, 155);
+}
+
+.kucuk20 {
+    color: rgb(0, 204, 0);
+}
